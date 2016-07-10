@@ -1,0 +1,6 @@
+C:\MyDocuments\Visual Studio 2010\Projects\ConsoleApplication19\ConsoleApplication19\bin\Debug\Reports.exe
+C:\MyDocuments\Visual Studio 2010\Projects\ConsoleApplication19\ConsoleApplication19\bin\Debug\Reports.pdb
+C:\MyDocuments\Visual Studio 2010\Projects\ConsoleApplication19\ConsoleApplication19\obj\x86\Debug\Reports.exe
+C:\MyDocuments\Visual Studio 2010\Projects\ConsoleApplication19\ConsoleApplication19\obj\x86\Debug\Reports.pdb
+D:\CUKB\reports\ConsoleApplication19\obj\x86\Debug\Reports.exe
+D:\CUKB\reports\ConsoleApplication19\obj\x86\Debug\Reports.pdb
